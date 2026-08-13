@@ -26,4 +26,5 @@ Enter y2: 8
 The distance between the two points is:  7.07
 ## Author
 Name: Aliyyah Fatima A. Usman
+
 Section: 8-Mahogany
