@@ -8,7 +8,7 @@ y2 = float(input("Enter y2: "))
 
 # Compute the distance using the distance formula
 distance = math.sqrt(math.pow(x2 - x1, 2) + (math.pow(y2 - y1, 2)))
-## Display the result
+# Display the result
 print("The distance between the two points is: ", distance)
 
 """
